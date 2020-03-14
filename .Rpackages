@@ -1,0 +1,6 @@
+install.packages('devtools')
+install.packages('tidyverse')
+
+# See https://github.com/RamiKrispin/coronavirus
+devtools::install_github("RamiKrispin/coronavirus")
+
